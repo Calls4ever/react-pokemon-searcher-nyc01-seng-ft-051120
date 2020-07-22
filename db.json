@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "sprites": {
+        "front": "https://ca-times.brightspotcdn.com/dims4/default/64a694a/2147483647/strip/true/crop/640x433+0+0/resize/840x568!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F55%2Fe8%2F27007aaae02c17c32480f3ee59ca%2Fla-xpm-photo-2012-jul-31-la-et-ct-mgm-icahn-20120731",
+        "back": "https://www.snopes.com/uploads/2015/10/table.jpg"
+      },
+      "name": "Tsering",
+      "hp": "199",
+      "id": 151
     }
   ]
 }
